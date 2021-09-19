@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.384fdaae.chunk.css",
+    "main.js": "/static/js/main.4cdc549d.chunk.js",
+    "main.js.map": "/static/js/main.4cdc549d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11f320ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11f320ca.js.map",
+    "static/js/2.6f4c2232.chunk.js": "/static/js/2.6f4c2232.chunk.js",
+    "static/js/2.6f4c2232.chunk.js.map": "/static/js/2.6f4c2232.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.384fdaae.chunk.css.map": "/static/css/main.384fdaae.chunk.css.map",
+    "static/js/2.6f4c2232.chunk.js.LICENSE.txt": "/static/js/2.6f4c2232.chunk.js.LICENSE.txt",
+    "static/media/adults.bc9ca9e9.png": "/static/media/adults.bc9ca9e9.png",
+    "static/media/bike12.ecbcbe0a.png": "/static/media/bike12.ecbcbe0a.png",
+    "static/media/bike3.4159e584.png": "/static/media/bike3.4159e584.png",
+    "static/media/bike7.0441850e.png": "/static/media/bike7.0441850e.png",
+    "static/media/cool.09a7cc12.png": "/static/media/cool.09a7cc12.png",
+    "static/media/cool1.086cbebf.png": "/static/media/cool1.086cbebf.png",
+    "static/media/repair.1140c732.png": "/static/media/repair.1140c732.png",
+    "static/media/wheels.db4f52b2.png": "/static/media/wheels.db4f52b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11f320ca.js",
+    "static/js/2.6f4c2232.chunk.js",
+    "static/css/main.384fdaae.chunk.css",
+    "static/js/main.4cdc549d.chunk.js"
+  ]
+}
